@@ -8,7 +8,8 @@
 
 Here’s a quick demonstration of how **AnalytiChat** works:
 
-[![Demo Video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the video](https://img.youtube.com/vi/y-C2JDhP1BQ/0.jpg)](https://www.youtube.com/watch?v=y-C2JDhP1BQ)
+
 
 ---
 
