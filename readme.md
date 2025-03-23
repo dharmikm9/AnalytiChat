@@ -53,7 +53,3 @@ We welcome contributions! Feel free to fork the project and create a pull reques
 Made by [Dharmik Mehta](https://dharmikm9.github.io/digital-profile/)
 
 Feel free to connect, contribute, and share your thoughts. We welcome your feedback!
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
